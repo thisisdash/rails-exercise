@@ -8,7 +8,6 @@ Fork the repository and implement the following behavior:
 - scores have a precision of 0.1
 
 Test the behavior that you added to verify that your implementation is good.
-Whenever you're done, open a pull request with all the good stuff.
 
 Good luck!
 
@@ -22,7 +21,5 @@ Fork de repository en implementeer het volgende gedrag:
 - scores hebben een precisie van 0.1
 
 Voeg tevens wat testen toe die testen of het bovenstaande gedrag goed geimplementeerd is
-
-Wanneer je klaar bent maak je een pull request met daarin al je commits.
 
 Success!
