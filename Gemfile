@@ -22,6 +22,7 @@ gem 'puma'
 
 group :development, :test do
   gem 'pry-rails'
+  gem 'rails-controller-testing'
 end
 
 gem 'simple_form'
