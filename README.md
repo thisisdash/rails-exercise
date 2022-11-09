@@ -1,25 +1,12 @@
-# English
-
 Fork the repository and implement the following behavior:
 
+- scores have a precision of 0.1
 - `score_from` has to be lower than `score_to`
 - `score_to` has to be higher than `score_from`
 - scores cannot overlap with other Ranks
-- scores have a precision of 0.1
 
 Test the behavior that you added to verify that your implementation is good.
 
+You can find the Web UI on port 3000.
+
 Good luck!
-
-# Nederlands
-
-Fork de repository en implementeer het volgende gedrag:
-
-- `score_from` moet lager zijn dan de `score_to`
-- `score_to` moet hoger zijn dan de `score_from`
-- scores mogen niet overlappen met de andere Ranks
-- scores hebben een precisie van 0.1
-
-Voeg tevens wat testen toe die testen of het bovenstaande gedrag goed geimplementeerd is
-
-Success!
